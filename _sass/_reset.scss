@@ -99,7 +99,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: bolder;
+  font-weight: 500;
 }
 
 /**
@@ -152,6 +152,16 @@ sup {
 
 img {
   border-style: none;
+  max-width: 100%;
+  height: auto;
+}
+
+img, svg {
+  vertical-align: middle;
+}
+
+figure {
+  margin: 0;
 }
 
 /* Forms
@@ -338,4 +348,19 @@ template {
 
 [hidden] {
   display: none;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-weight: 300;
+  font-size: 16px;
+
+  td {
+    padding: 5px;
+  }
+  
+  tr:not(:last-child) {
+    border-bottom: 1px solid $gray;
+  }
 }

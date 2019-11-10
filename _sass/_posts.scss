@@ -1,0 +1,97 @@
+.post-wrapper {
+  background-color: $dark-blue;
+  padding-top: 3rem;
+
+  .heading {
+    color: white;
+    margin-top: 0;
+    position: relative;
+
+    &::after {
+      content: "";
+      width: 60px;
+      height: 3px;
+      background-color: $yellow;
+      position: absolute;
+      bottom: -10px;
+      left: 0;
+    }
+  }
+}
+
+.post-preview {
+  background-color: $white;
+  padding: 1rem;
+  margin: 1rem .5rem;
+  flex-basis: calc(33.33334% - 1rem);
+
+  .thumbnail {
+    margin-bottom: -13px;
+  }
+
+  .image {
+    max-height: 250px;
+    object-fit: cover;
+  }
+
+  .date {
+    background-color: $yellow;
+    color: $blue;
+    padding: 5px 45px 5px 5px;
+    font-weight: 600;
+    font-size: 12px;
+    clip-path: polygon(0px 0px, 0px 100%, 85% 100%, 100% 0px);
+  }
+
+  .title {
+    color: $dark-blue;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .excerpt {
+    color: $black;
+    font-size: 14px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+.post-content {
+  .date {
+    display: block;
+    margin: 1rem 0 3rem;
+  }
+
+  .thumbnail {
+    margin-left: -11rem;
+    margin-bottom: 3rem;
+  }
+
+  .content {
+    max-width: 70%;
+    font-size: 20px;
+    margin-bottom: 2rem;
+
+    a {
+      color: $blue;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+
+    .image {
+      height: 160px;
+      width: 250px;
+      object-fit: cover;
+      margin-right: 1rem;
+    }
+  }
+}

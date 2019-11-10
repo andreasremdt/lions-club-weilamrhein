@@ -2,6 +2,16 @@
   max-width: 1280px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 2rem;
-  padding-right: 2rem;
+}
+
+.section {
+  background-color: $white;
+  padding: 3rem calc(80px + 3rem);
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -.5rem;
+  margin-right: -.5rem;
 }

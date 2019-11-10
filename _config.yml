@@ -15,3 +15,9 @@ plugins:
 # Sass settings
 sass:
   style: compressed
+
+# Collections
+collections:
+  news:
+    output: true
+    permalink: /:collection/:name

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<main class="container section post-content">
+  <h1>{{ page.title }}</h1>
+  <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d.%m.%Y" }}</time>
+
+  <figure class="thumbnail">
+    <img src="{{ page.thumbnail }}" class="image" alt="{{ page.title }}" width="800">
+  </figure>
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+  {% if page.gallery %}
+  <figure class="gallery">
+    {% for image in page.gallery %}
+      <a href="{{ image }}">
+        <img class="image" src="{{ image }}" width="300" height="200">
+      </a>
+    {% endfor %}
+  </figure>
+  {% endif %}
+
+  <a href="javascript:history.back();" class="button is-yellow">Zurück</a>
+</main>
