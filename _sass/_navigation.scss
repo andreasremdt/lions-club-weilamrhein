@@ -10,12 +10,17 @@
 
   .item {
     display: flex;
-    height: 100px;
+    height: $header-height;
     align-items: center;
 
     &:hover > .dropdown,
     &:focus > .dropdown {
       display: block;
+    }
+
+    &:hover > .is-root::after,
+    &:focus > .is-root::after {
+      width: 100%;
     }
   }
   
@@ -37,10 +42,6 @@
         left: 0;
         transition: width .2s ease-out;
       }
-
-      &:hover::after, &:focus::after {
-        width: 100%;
-      }
     }
   }
 
@@ -58,15 +59,15 @@
     position: absolute;
     left: 0;
     right: 0;
-    top: 100px;
+    top: $header-height;
     background-color: $white;
 
     .items {
-      padding: 2rem 0 2rem calc(80px + 3rem);
+      padding: 3rem 0 3rem calc(80px + 3rem);
+    }
+
+    .link:hover {
+      text-decoration: underline;
     }
   }
-}
-
-.search-wrapper {
-  display: none;
 }

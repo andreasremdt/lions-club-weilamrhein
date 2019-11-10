@@ -1,0 +1,25 @@
+.search-wrapper {
+  background-color: $light-blue;
+  color: $white;
+  position: absolute;
+  top: $header-height;
+  left: 0;
+  right: 0;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  text-align: right;
+
+  .input {
+    background-color:
+    transparent;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid $white;
+    color: $white;
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    outline: none;
+    margin-bottom: 1rem;
+  }
+}

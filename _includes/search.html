@@ -1,0 +1,17 @@
+<button type="button" class="button is-icon" data-search-toggle title="Diese Seite durchsuchen">
+  <svg width="26" height="26">
+    <use href="/icons/symbol-defs.svg#icon-search"></use>
+  </svg>
+</button>
+
+<form class="search-wrapper" method="GET" action="/search/" hidden data-search>
+  <div class="container">
+    <button type="button" class="button is-search" data-search-hide title="Suche schließen">
+      <svg width="26" height="26">
+        <use href="/icons/symbol-defs.svg#icon-close"></use>
+      </svg>
+    </button>
+    <input type="search" class="input" name="q" placeholder="Suchbegriff hier eingeben..." required autofocus>
+    <button type="submit" class="button is-white">Suche</button>
+  </div>
+</form>

@@ -5,16 +5,7 @@
 
   {% include navigation.html %}
 
-  <a href="/spenden/" class="button is-yellow">Spenden</a>
+  <a href="/spenden/" class="button is-yellow mr-1">Spenden</a>
   
-  <button type="button" class="button is-icon">
-    <svg width="26" height="26">
-      <use href="/icons/symbol-defs.svg#icon-search"></use>
-    </svg>
-  </button>
-
-  <form class="search-wrapper" method="GET" action="/search/">
-    <input type="search" class="input" name="q" placeholder="Suchbegriff hier eingeben..." required autofocus>
-    <button type="submit" class="button is-white">Suche</button>
-  </form>
+  {% include search.html %}
 </header>
