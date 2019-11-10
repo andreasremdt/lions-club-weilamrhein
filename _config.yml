@@ -11,3 +11,7 @@ url: ""
 # Build settings
 plugins:
   - jekyll-feed
+
+# Sass settings
+sass:
+  style: compressed

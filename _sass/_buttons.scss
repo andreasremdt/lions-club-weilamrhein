@@ -1,0 +1,32 @@
+.button {
+  display: inline-block;
+  padding: .8rem 2rem;
+  font-weight: 600;
+  border-radius: 4px;
+  cursor: pointer;
+  border: none;
+  transition: background-color .2s ease-out;
+
+  &.is-yellow {
+    background-color: $yellow;
+    color: $black;
+
+    &:hover, &:focus {
+      background-color: darken($yellow, 5%);
+    }
+  }
+
+  &.is-blue {
+    background-color: $blue;
+    color: $white;
+
+    &:hover, &:focus {
+      background-color: darken($blue, 5%);
+    }
+  }
+
+  &.is-white {
+    background-color: $white;
+    color: $light-blue;
+  }
+}
