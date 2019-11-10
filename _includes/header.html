@@ -1,0 +1,21 @@
+<header class="main-header">
+  <a href="/" class="logo">
+    <img src="/images/lions-logo.png" alt="Lions Club Weil am Rhein" width="100" height="100">
+    Lions Club Weil am Rhein
+  </a>
+
+  {% include navigation.html %}
+
+  <a href="/spenden/" class="button is-yellow">Spenden</a>
+  
+  <button type="button" class="button is-icon">
+    <svg width="20" height="20">
+      <use href="/icons/symbol-defs.svg#icon-search"></use>
+    </svg>
+  </button>
+
+  <form class="search-wrapper" method="GET" action="/search/">
+    <input type="search" class="input" name="q" placeholder="Suchbegriff hier eingeben..." required autofocus>
+    <button type="submit" class="button is-white">Suche</button>
+  </form>
+</header>
