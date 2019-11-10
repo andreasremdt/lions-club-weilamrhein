@@ -20,4 +20,9 @@ sass:
 collections:
   news:
     output: true
-    permalink: /:collection/:name
+    permalink: /aktuelles/:name
+    sort_by: date
+  projects:
+    output: true
+    permalink: /projekte/:name
+    sort_by: date
