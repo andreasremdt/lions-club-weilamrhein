@@ -1,0 +1,25 @@
+.main-footer {
+  background-color: $dark-blue;
+  color: $white;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+
+  .inner {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .copyright {
+    margin: 0;
+    font-weight: 400;
+  }
+
+  .link {
+    color: inherit;
+    margin-left: 1rem;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
