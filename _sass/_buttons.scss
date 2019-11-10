@@ -29,4 +29,8 @@
     background-color: $white;
     color: $light-blue;
   }
+
+  &.is-icon {
+    padding: .8rem;
+  }
 }
