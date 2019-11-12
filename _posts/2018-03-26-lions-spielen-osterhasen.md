@@ -5,6 +5,7 @@ date: 2018-03-26 16:16:01 -0600
 thumbnail: /images/projekte/2018-03-26-lions-spielen-osterhasen-2.jpg
 gallery:
   - /images/projekte/2018-03-26-lions-spielen-osterhasen.jpg
+category: projekte
 ---
 
 Mitglieder des Lions Clubs Weil am Rhein haben dem SOS Kinderdorf Schwarzwald in Sulzburg eine Freude gemacht und fast 300 Osterüberraschungen vorbei gebracht. Die Lions schenkten allen Kindern und Mitarbeitern des SOS Kinderdorfs jeweils eine von der Firma Würzburger gespendete Tasse mit aufgedruckten Emoji, einzeln in Glitzerfolie verpackt und gefüllt mit Schokolade. Rechtzeitig vor Ostern spielten die Lions-Mitglieder Claudia Menzer, Präsidentin Marie-Claude Schmitter und ihr Nachfolger Dieter Charté gewissermaßen Osterhase und übergaben die Osterüberraschungen an die Leiterin des SOS Kinderdorfes, Karin Schäfer.

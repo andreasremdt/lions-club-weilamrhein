@@ -8,6 +8,7 @@ gallery:
   - /images/projekte/2014-01-21-spende-philippinen-2.jpg
   - /images/projekte/2014-01-21-spende-philippinen-4.jpg
   - /images/projekte/2014-01-21-spende-philippinen-5.jpg
+category: projekte
 ---
 
 Anfang November 2013 ist der Super Taifun Yolanda u.a. über die Philippinen gezogen und hat eine tiefe Schneise der Verwüstung hinterlassen. San Isidro ist ein kleines Fischerdorf auf der Insel Panay und wurde vom Taifun zu 90% zerstört. Das Hauptnahrungsmittel auf den Philippinen ist Reis und auch die Ernte wurde komplett zerstört. Auf der Nachbarinsel Boracay haben sich ein Kanadier, Claus Bauer, Leiter der International und European School, und ein paar Europäer zusammengetan, um der Bevölkerung dort zu helfen. Bereits kurz nach dem Taifun waren sie vor Ort und haben zuerst Wasser, Essen, Planen gebracht sowie die Menschen medizinisch versorgt. Dafür waren vom Roten Kreuz Boracay  Mitarbeiter mitgekommen. Beim 2. Besuch gab es neben Essen Reissamen, Fischernetze, Baumaterial, Nägel etc., um die Selbstversorgung wieder herzustellen. Mit dem Geld, das inzwischen gesammelt wurde, soll die Schule wiederhergestellt werden. Hier sind 2 Klassenzimmer noch intakt, da diese mit Stein gebaut sind, die 2 weiteren Klassenzimmer aus Rattan und Naturmaterial sind jedoch komplett verwüstet worden. Außerdem fehlen Tische, Stühle, Schulbücher, Papier, Stifte etc. Die Kosten betragen rund 750.000 Peso = 12.000 Euro, davon sind 2.000€ von dem Lions Club Weil am Rhein gespendet worden!! An der Schule sind rund 90 Kinder, vom Kindergartenkind bis zur 3. Klasse.

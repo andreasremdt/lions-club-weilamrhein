@@ -3,6 +3,7 @@ layout: post
 title: Startschuss für wohltätige Lions Ostereieraktion
 date: 2019-03-13 16:16:01 -0600
 thumbnail: /images/news/2019-03-13-ostereierverkauf-3.jpg
+category: aktuelles
 gallery:
   - /images/news/2019-03-13-ostereierverkauf.jpg
   - /images/news/2019-03-13-ostereierverkauf-2.jpg

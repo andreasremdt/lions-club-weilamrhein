@@ -3,6 +3,7 @@ layout: post
 title: Begegnung von deutschen, französischen und schweizer Jugendlichen
 date: 2016-05-03 16:16:01 -0600
 thumbnail: /images/projekte/2016-05-03-begegnung-hausbootfahrt.jpg
+category: projekte
 ---
 
 Nach Ostern durften 18 Jugendliche auf Einladung von Lions Clubs aus Südbaden, aus dem Elsass und aus Basel gemeinsam auf große Fahrt gehen. Die jungen Leute aus der Schweiz und aus Deutschland waren mehrheitlich „Erlen-Kids“, die sich ehrenamtlich als Tierpfleger im Basler Tierpark Lange Erlen engagieren. Für sie stellte die Fahrt auf drei geräumigen Hausbooten der Baureihe KORMORAN auf dem Rhein-Marne-Kanal und auf der Mosel ein großartiges Ferienprogramm dar. Anders verhielt es sich bei acht jungen Damen aus dem Elsass: Sie erhielten auf Initiative von Gérard Rogenmuser, Mitglied im Lions Club Mulhouse Europe von der Gewerbeschule CFAA de Mulhouse vier Tage Urlaub.

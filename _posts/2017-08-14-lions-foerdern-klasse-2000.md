@@ -3,6 +3,7 @@ layout: post
 title: Lions fördern Klasse2000
 date: 2017-08-14 16:16:01 -0600
 thumbnail: /images/projekte/2017-08-14-lions-foerdern-klasse-2000.jpg
+category: projekte
 ---
 
 Der Lions-Club Weil am Rhein und die Rheinschule kooperieren dauerhaft beim Präventionsprogramm "Klasse2000". Es ist das bundesweit größte Unterrichtsprogramm, das die Gesundheit von Kindern fördert und Sucht sowie Gewalt vorbeugt.

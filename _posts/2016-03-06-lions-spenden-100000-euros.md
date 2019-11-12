@@ -6,6 +6,7 @@ thumbnail: /images/projekte/2016-03-06-10-jahre-lions.jpg
 gallery:
   - /images/projekte/2016-03-06-10-jahre-lions-2.jpg
   - /images/projekte/2016-03-06-10-jahre-lions-3.jpg
+category: projekte
 ---
 
 Im würdigen Rahmen der Lörracher Villa Feer konnte Clubpräsidentin Sabine Theil am 15. November 2015 viele Lions zur Feier des zehnjährigen Bestehens begrüßen, darunter Zonen-Chairman Matthias Fräulin und Governorin Konstanze Schwarz. Für die musikalische Gestaltung der Feier sorgte das Mutter-Tochter-Duo Leitherer. Angela Winkelmann erinnerte als Gründungspräsidentin an die Anfänge des Weiler Lions Clubs sowie an die Entwicklung im vergangenen Jahrzehnt. Die Gründungspräsidentin würdigte die Verdienste des damaligen Zonen-Chairman Peter Völker, der die Gründung des südwestlichsten Clubs der Republik initiiert hatte. Dank Unterstützung der bestehenden Lions Clubs in Schliengen und Lörrach fanden sich am 15. November 2005 dann die erforderlichen 20 Gründungsmitglieder, so dass der Lions Club Weil am Rhein im Hotel „Leopoldshöhe“ aus der Taufe gehoben werden konnte.

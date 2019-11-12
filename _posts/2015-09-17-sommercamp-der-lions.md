@@ -3,6 +3,7 @@ layout: post
 title: Das Sommercamp der Regio Lions
 date: 2015-09-17 16:16:01 -0600
 thumbnail: /images/projekte/2015-09-17-sommercamp-der-lions.jpg
+category: projekte
 ---
 
 Auch im Jahr 2015 wieder wunderschön:

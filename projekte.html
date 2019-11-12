@@ -1,11 +1,10 @@
 ---
 layout: page
 permalink: /projekte/
-title: Langfristige Projekte
-description: Hier finden Sie aktuelle Neuigkeiten rund um den Lions Club Weil am Rhein Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod tenetur ipsum sint maiores ad placeat, debitis odio eum, asperiores est incidunt excepturi quasi deleniti iure tempore illo atque ipsam adipisci..
+title: Projekte
+description: Lorem ipsum
 ---
 
-{% assign sorted = site.projects | reverse %}
-{% for post in sorted  %}
-  {% include project-preview.html %}
+{% for post in site.posts  %}
+  {% include post-preview.html %}
 {% endfor %}

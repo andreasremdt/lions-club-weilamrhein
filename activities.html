@@ -1,0 +1,17 @@
+---
+layout: page
+permalink: /projekte/activities/
+title: Unsere Activities
+description: >-
+  Der Lions-Club Weil am Rhein legt Wert auf nachhaltige Unterstützung von Projekte, die gerade im nahen Umfeld aufgebaut worden sind.
+  Deshalb werden die von den Mitgliedern durch Activities aufgebrachten Mittel an soziale Organisationen und Projekte zur Verfügung gestellt. Im Lions-Jahr 2013-14 konnte 1.200,- Euro an Organisation für Mütter in der Arbeitswelt O.M.A. die Unterstützung für Mütter und Alleinerziehenden anbiete übergeben werden.
+  Der Rheinschule in Friedlingen wurde zum vierten Mal ein Scheck in Höhe von 1.000,- Euro übergeben, das Geld kommt dem Frühstücksprojekt für Kinder in der Schule zugute.
+  Weitere 1.000,- Euro bekam die Rheinschule für die Förderung  des Musikprojektes JeKi.
+  2.000.- Euro konnte ein Lions-Mitglied zum Wiederaufbau in den Philippinen übergeben.
+---
+
+{% for post in site.posts %}
+  {% if post.category == "activities" %}
+    {% include post-preview.html %}
+  {% endif %}
+{% endfor %}

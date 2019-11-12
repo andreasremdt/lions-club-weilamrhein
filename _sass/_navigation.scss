@@ -14,7 +14,7 @@
     align-items: center;
 
     &:hover > .dropdown,
-    &:focus > .dropdown {
+    &:focus-within > .dropdown {
       display: block;
     }
 

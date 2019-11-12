@@ -6,6 +6,7 @@ thumbnail: /images/projekte/2016-03-06-lions-unterstuetzten-markgrafenschule.jpg
 gallery:
   - /images/projekte/2016-03-06-lions-unterstuetzten-markgrafenschule-2.jpg
   - /images/projekte/2016-03-06-lions-unterstuetzten-markgrafenschule-3.jpg
+category: projekte
 ---
 
 Bereits in 2015 hat der Lions-Club Weil am Rhein die Markgrafenschule mit 2.000 Euro für die Schülerprojekte „Musiklotsen“ und „Schülermentoren“ unterstützt. Jetzt präsentierten die Schüler das Ergebnis Ihrer Projektarbeit an die Präsidentin des Lions Clubs, Sabine Theil sowie den Pastpräsidenten, Ulf Bleckmann.

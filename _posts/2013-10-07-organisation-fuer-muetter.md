@@ -9,6 +9,7 @@ gallery:
   - /images/projekte/2013-10-07-oma-3.jpg
   - /images/projekte/2013-10-07-oma-5.jpg
   - /images/projekte/2013-10-07-oma-6.jpg
+category: projekte
 ---
 
 Am 1. Oktober 2013 hatten wir die Gelegenheit, die Räumlichkeiten [der O.M.A. (Organisation für Mütter in der Arbeitswelt)](http://www.oma-weil.de/index.php) in Friedlingen zu besichtigen. Bei dieser Führung haben wir vom Geschäftsführer Herrn Grupp erfahren, wie viel wertvolle Arbeit dort für unsere Mitmenschen geleistet wird.

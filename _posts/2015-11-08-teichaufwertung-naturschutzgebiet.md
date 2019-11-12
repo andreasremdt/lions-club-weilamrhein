@@ -14,6 +14,7 @@ gallery:
   - /images/projekte/2015-11-08-teichaufwertung-9.jpg
   - /images/projekte/2015-11-08-teichaufwertung-10.jpg
   - /images/projekte/2015-11-08-teichaufwertung-11.jpg
+category: projekte
 ---
 
 Der Lions Club Weil am Rhein engagierte sich mit einem tatkräftigen Arbeitseinsatz für den Erhalt des etwa 19 Hektar großen Naturschutzgebietes Käppelin, eines der wertvollsten Rückzugsgebiete im Dreiland für besonders viele Tierarten. Frank Maike, Naturschutzfachkraft vom Trinationalen Umweltzentrum (TRUZ) leitete die Aktion „Teichaufwertung.  Er gab wertvolle Informationen über den Stellwert dieses Lebensraums und fachkundige Anleitung für die Arbeiten. Wir Lions-Mitglieder machten uns nach einer kleinen Exkursion durch das Gelände mit Rechen, Netzen und anderen Werkzeugen daran,  die Teiche von Algen, Moos, Laub, Pflanzen und Teichrosen insoweit zu befreien, damit der Teich als Lebensraum für Pflanzen und Tiere erhalten bleibt. Auf Anweisung des Schutzgebietsbetreuers Maike wurden die aus dem Teich entnommenen Pflanzenreste bewusst nah am Ufer abgelegt, damit die eventuell noch darin enthaltenen Lebewesen wieder in den Teich zurückkehren konnten.

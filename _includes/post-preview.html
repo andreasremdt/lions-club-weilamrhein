@@ -3,6 +3,7 @@
     <figure class="thumbnail">
       <img src="{{ post.thumbnail }}" class="image" alt="{{ post.title }}" width="384">
     </figure>
+    <span class="category is-{{ post.category }}">{{ post.category | capitalize }}</span>
     <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time>
     <h3 class="title">{{ post.title }}</h3>
     <p class="excerpt">{{ post.excerpt | truncatewords: 30 | strip_html }}</p>

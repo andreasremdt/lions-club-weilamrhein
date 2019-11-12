@@ -3,6 +3,7 @@ layout: post
 title: Babyklappe
 date: 2013-03-31 16:16:01 -0600
 thumbnail: /images/projekte/2013-03-31-babyklappe.jpg
+category: projekte
 ---
 
 Das erste Projekt, das der Lions Clubs Weil am Rhein seit seiner Gründung am 11.1.2006 in Angriff nahm, war die Einrichtung einer Babyklappe im St.Elisabethen-Krankenhaus in Lörrach. Zu der Zeit 2006 gab es südlich von Karlsruhe noch keine Babyklappe, während in nördlichen Bereichen der Bundesrepublik die Dichte der Babyklappen höher war.

@@ -3,6 +3,7 @@ layout: post
 title: Lions Club Weil am Rhein spendet 8.000 Euro
 date: 2016-04-07 16:16:01 -0600
 thumbnail: /images/projekte/2016-04-07-lions-spenden-8000-euro.jpg
+category: projekte
 ---
 
 **Fünf Einrichtungen aus Weil am Rhein und Lörrach hat der Lions-Club mit einer Gesamtsumme von 8.000 Euro bedacht. Dieses Geld hat das Hilfswerk des Lions Clubs durch Benefizkonzerte, den Lions-Weihnachtshof, Waffel- und Eisverkauf und anderen Veranstaltungen generiert.**

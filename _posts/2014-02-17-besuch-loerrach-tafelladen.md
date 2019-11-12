@@ -8,6 +8,7 @@ gallery:
   - /images/projekte/2014-02-17-besuch-loerrach-tafelladen-2.jpg
   - /images/projekte/2014-02-17-besuch-loerrach-tafelladen-3.jpg
   - /images/projekte/2014-02-17-besuch-loerrach-tafelladen-4.jpg
+category: projekte
 ---
 
 Das Meeting fand in den Räumen der Lörracher Tafel statt. Wir waren dort zu einer ausführlichen Besichtigung und zum Essen eingeladen. Anwesend waren Herr Saalfrank Ulrich Saalfrank, der uns einen umfassenden Bericht zur Entstehung und zum Werdegang der Tafel gab und die Mitabeiterinnen Frau Merz und Frau Kiefer.Lieferwagen des Tafelladens

@@ -26,7 +26,7 @@
   flex-basis: calc(33.33334% - 1rem);
 
   .thumbnail {
-    margin-bottom: -13px;
+    margin-bottom: -23px;
   }
 
   .image {
@@ -34,19 +34,47 @@
     object-fit: cover;
   }
 
+  .category {
+    display: block;
+    padding: 0 10px;
+    font-weight: 600;
+    clip-path: polygon(0px 0px, 0px 100%, 90% 100%, 100% 0px);
+    height: 40px;
+    line-height: 40px;
+    width: 70%;
+
+
+    &.is-aktuelles {
+      background-color: $green;
+      color: $black;
+    }
+    
+    &.is-projekte {
+      background-color: $light-blue;
+      color: $black;
+    }
+    
+    &.is-activities {
+      background-color: $purple;
+      color: $white;
+    }
+  }
+
   .date {
-    background-color: $yellow;
-    color: $blue;
-    padding: 5px 45px 5px 5px;
+    color: $gray;
     font-weight: 600;
     font-size: 12px;
-    clip-path: polygon(0px 0px, 0px 100%, 85% 100%, 100% 0px);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    display: inline-block;
+    margin-top: 1rem;
   }
 
   .title {
     color: $dark-blue;
     padding-left: 1rem;
     padding-right: 1rem;
+    margin-top: 0;
   }
   
   .excerpt {
@@ -72,6 +100,10 @@
     max-width: 70%;
     font-size: 20px;
     margin-bottom: 2rem;
+
+    ul, ol {
+      font-weight: 300;
+    }
 
     a {
       color: $blue;

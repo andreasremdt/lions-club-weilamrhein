@@ -17,6 +17,7 @@ gallery:
   - /images/projekte/2014-09-06-trinationales-sommercamp-12.jpg
   - /images/projekte/2014-09-06-trinationales-sommercamp-13.jpg
   - /images/projekte/2014-09-06-trinationales-sommercamp-14.jpg
+category: projekte
 ---
 
 Was vom 2. bis zum 8. August, von Samstagmorgen bis Freitagabend, beim diesjährigen Sommercamp auf einem Bauernhof in Huttwil ablief, wird  gewiss allen Teilnehmern in guter Erinnerung bleiben!

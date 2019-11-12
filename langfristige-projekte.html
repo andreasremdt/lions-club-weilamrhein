@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /projekte/aktuelles/
-title: Aktuelle Neuigkeiten
+permalink: /projekte/langfristige-projekte/
+title: Langfristige Projekte
 description: Hier finden Sie aktuelle Neuigkeiten rund um den Lions Club Weil am Rhein Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod tenetur ipsum sint maiores ad placeat, debitis odio eum, asperiores est incidunt excepturi quasi deleniti iure tempore illo atque ipsam adipisci..
 ---
 
-{% for post in site.posts %}
-  {% if post.category == "aktuelles" %}
+{% for post in site.posts  %}
+  {% if post.category == "projekte" %}
     {% include post-preview.html %}
   {% endif %}
 {% endfor %}

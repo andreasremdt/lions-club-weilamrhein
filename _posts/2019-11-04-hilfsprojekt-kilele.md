@@ -3,6 +3,7 @@ layout: post
 title: Hilfsprojekt Kilele
 date: 2019-11-04 16:16:01 -0600
 thumbnail: /images/news/2019-11-04-hilfsprojekt-kilele.jpg
+category: aktuelles
 gallery:
   - /images/news/2019-11-04-hilfsprojekt-kilele-2.jpg
   - /images/news/2019-11-04-hilfsprojekt-kilele-3.jpg

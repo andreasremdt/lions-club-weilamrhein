@@ -3,6 +3,7 @@ layout: post
 title: Lions Quest - Förderung von Fortbildungskursen für Lehrkräfte
 date: 2018-02-12 16:16:01 -0600
 thumbnail: /images/news/2018-02-12-lions-quest.jpg
+category: aktuelles
 ---
 
 Am 3. Januar 2018 erschein ein Artikel in der Weiler Zeitung über unsere Förderung von Lions Quest, ein Lebenskompetenz- und Präventionsprogramm für junge Menschen.

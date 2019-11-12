@@ -3,6 +3,7 @@ layout: post
 title: Etwas Gutes für die Allgemeinheit tun
 date: 2017-10-04 16:16:01 -0600
 thumbnail: /images/projekte/2017-10-04-etwas-gutes-tun.jpg
+category: projekte
 ---
 
 Im Landkreis Lörrach gibt es drei Lions-Clubs, in Lörrach, in Weil am Rhein und in Schliengen. Der Lions-Club International wird in diesem Jahr 100 Jahre alt. Eine aktuelle Serie aus der Oberbadischen Zeitung beschäftigt sich mit den vielfältigen Aktivitäten dieser Lions-Clubs. 

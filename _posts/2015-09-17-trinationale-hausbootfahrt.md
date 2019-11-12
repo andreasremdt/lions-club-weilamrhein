@@ -3,6 +3,7 @@ layout: post
 title: Hausbootfahrt mit Jugendlichen aus Deutschland, aus der Schweiz und aus Frankreich
 date: 2015-09-17 16:16:01 -0600
 thumbnail: /images/projekte/2015-09-17-trinationale-hausbootfahrt.jpg
+category: projekte
 ---
 
 **Organisiert von einem Mitglied des LC Weil am Rhein: Hausbootfahrt mit Jugendlichen aus Deutschland, aus der Schweiz und aus Frankreich Regio Lions luden zu einer besonderen Fahrt in den Mai ein.**
